@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000060
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྐུ་གསུམ་ཞིང་ཁམས་སྦྱོང་བའི་གསོལ་འདེབས་སྨོན་ལམ་གྱི་འགྲེལ་པ་གཏན་བདེའི་ས་བོན་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-12
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-DKR-12
 web_metadata:
   title:
     en: A Seed for Stable Bliss:A Commentary on the Supplication Prayer of Purifying
